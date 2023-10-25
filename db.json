@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Noise Pulse 2 Max 1.85' Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness, Smart DND, 100 Sports Modes, Smartwatch for Men and Women (Jet Black)", "img": "https://m.media-amazon.com/images/I/61SSVxTSs3L._SX679_.jpg", "price" : 1,199 , "about" : "Massive 1.85" display: See everyday data clearly under the brightest sun on the 1.85'' TFT LCD that sports 550 nits of brightness and the highest screen-to-body ratio." },
-    { "id": 2, "title": "Vega Crux ISI Certified Flip-Up Helmet for Men and Women with Clear Visor(Black, Size:L)", "img": "https://m.media-amazon.com/images/I/61eEetcCb9L._SX679_.jpg" , "price" : 1,163 , "about" : "Size for the helmets would be :XS: 53-54 cm, S: 55-56 cm, M: 57-58 cm, L: 59-60 cm basis head measurement. Kindly refer image size chart for details.;ISI Certified with IS no.: IS 4151:2015 and CM/L no.: 2572055" },
-    { "id": 3, "title": "Acer Aspire 5 Gaming Laptop Intel Core i5 12th gen (16 GB/512 GB SSD/Win11 Home/4GB Graphics/RTX 2050) A515-57G (15.6' FHD Display, 1.8 Kg)", "img": "https://m.media-amazon.com/images/I/61xzutxSl8L._SX679_.jpg" , "price" : 51,990 , "about" : "RTX It's On : NVIDIA GeForce RTX 2050 - 4G-GDDR6 laptops deliver ray tracing and cutting-edge AI features. The RTX 2050 also works seamlessly with NVIDIA Optimus technology to give you the perfect balance between long battery life and optimum performance. Over 150 top games and applications use RTX to deliver realistic graphics or cutting-edge new AI features like NVIDIA DLSS and NVIDIA Broadcast. RTX is the new standard." }
+    { "id": 1, "title": "Noise Pulse 2 Max 1.85' Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness" },
+    { "id": 2, "title": "Vega Crux ISI Certified Flip-Up Helmet for Men and Women with Clear Visor" },
+    { "id": 3, "title": "Acer Aspire 5 Gaming Laptop Intel Core i5 12th gen " }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
