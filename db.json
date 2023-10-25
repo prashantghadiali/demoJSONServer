@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Noise Pulse 2 Max 1.85' Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness" },
-    { "id": 2, "title": "Vega Crux ISI Certified Flip-Up Helmet for Men and Women with Clear Visor" },
-    { "id": 3, "title": "Acer Aspire 5 Gaming Laptop Intel Core i5 12th gen " }
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
